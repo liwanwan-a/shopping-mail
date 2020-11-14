@@ -1,7 +1,7 @@
 <template>
     <div>
         <TabBar>
-            <TabBarItem path="/home" col="#fff">
+            <TabBarItem path="/home" col="red">
                 <div slot="icon" class="fa fa-home item-icon"></div>
                 <div slot="text">首页</div>
             </TabBarItem>
